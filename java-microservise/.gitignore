@@ -10,6 +10,7 @@ hibernate.properties
 *.properties
 *.yaml
 application.yaml
+application.*
 
 *.idea
 /target
