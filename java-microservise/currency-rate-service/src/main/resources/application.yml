@@ -1,0 +1,6 @@
+server:
+  port: 8085
+
+currency:
+  client:
+    url: "https://cbr.ru/scripts/XML_daily.asp"
